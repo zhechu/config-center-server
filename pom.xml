@@ -48,12 +48,6 @@
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 
-		<!-- amqp -->
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-bus-amqp</artifactId>
-		</dependency>
-
 		<!-- 代码自动生成工具 -->
 		<dependency>
 			<groupId>org.projectlombok</groupId>

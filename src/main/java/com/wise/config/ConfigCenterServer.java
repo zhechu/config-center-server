@@ -10,7 +10,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * 启动类 浏览器访问配置示例 ：http://127.0.0.1:8762/spring-boot-server-demo/dev/master
+ * 启动类 浏览器访问配置示例 ：http://127.0.0.1:8080/<spring.application.name>/dev/master
  * @author lingyuwang
  *
  */
